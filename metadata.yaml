@@ -1,0 +1,31 @@
+_repo: Na-Guella-do-Le-o_28707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sabugosa, António Maria José de Melo Silva César e Meneses, conde
+      de
+    aliases:
+    - Sabugosa, Antonio Maria Jose de Melo Silva Cesar e Meneses, conde de
+    - Meneses, António Maria José de Melo Silva César e, conde de Sabugosa
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '33497'
+    url: http://www.gutenberg.org/2009/agents/33497
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28707'
+  lccn: '37020403'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+title: Na Guella do Leão
+url: http://www.gutenberg.org/ebooks/28707
